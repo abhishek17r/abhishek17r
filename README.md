@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi, I'm Abhishek, a product manager who likes building things with AI.
 
 - **refit**: a small open-source app for tailoring a resume to each job. Runs locally, bring your own AI key.
